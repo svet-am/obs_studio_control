@@ -1,0 +1,5 @@
+Adafruit RA8875 Control Library: https://github.com/adafruit/Adafruit_RA8875
+Adafruit GFX Library: https://github.com/adafruit/Adafruit-GFX-Library
+LaTeX Color Definitions: https://github.com/svet-am/latex_colors
+Icons from: https://icons8.com/
+Paint.NET https://getpaint.net

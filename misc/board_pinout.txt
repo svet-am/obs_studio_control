@@ -1,0 +1,15 @@
+Target Board: Arduino Pro Micro (SparkFun)
+LCD Controller: Adafruit RA8875 SPI->40P Adapter (https://www.adafruit.com/product/1590)
+
+RA8875/Arduino Pinout:
+Vin: 5V
+GND: GND
+3vo: No-Connect (NC)
+Lite: 9  
+SCK: 15
+MISO: 14
+MOSI: 16
+CS: 10 
+RST: 7 
+INT: 8
+WAIT: 6
